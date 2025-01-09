@@ -1,0 +1,5 @@
+# Configurações do Azure para Pesquisa Cognitiva
+
+Chave de API: sua-chave-de-api-aqui
+Nome do serviço: nome-do-servico-de-pesquisa-cognitiva
+Região: sua-regiao-azure
